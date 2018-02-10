@@ -17,4 +17,4 @@ categories:
 
 - **Condition**: Used, Like New
 - **Markings**: None
-- **Other comments**: Second edition. Published in 2007. Useds for Latin American politics grad class taught by Kline himself.
+- **Other comments**: Second edition. Published in 2007. Used for Latin American politics grad class taught by Kline himself.
