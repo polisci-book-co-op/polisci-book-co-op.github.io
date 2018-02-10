@@ -32,7 +32,7 @@ Further, why charge you anything for a book when I can give you a book you want 
 
 ## Why Not Give Them to Your Library? Or BetterWorldBooks?
 
-That's my last resort. If, for example, I happen to move to another university to take another job, most of these books will not come with me. Clemson University's library service has been gracious in communicating that it would gladly accept these books. The books it finds useful for its catalog would appear in its main library and those that aren't "presentation quality" would go to BetterWorldBooks, which would try to sell these (typically through Amazon) at its familiar low prices.
+That's my last resort. If, for example, I happen to make a major move across the country, most of these books will not come with me. Clemson University's library service has been gracious in communicating that it would gladly accept these books. The books it finds useful for its catalog would appear in its main library and those that aren't "presentation quality" would go to BetterWorldBooks, which would try to sell these (typically through Amazon) at its familiar low prices.
 
 That's a perfectly good option; I just want to do this to cut out the middle man.
 
