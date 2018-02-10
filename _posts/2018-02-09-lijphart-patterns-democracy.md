@@ -11,7 +11,7 @@ categories:
 
 ## Book Description
 
-> In this updated and expanded edition of his classic text, Arend Lijphart offers a broader and deeper analysis of worldwide democratic institutions than ever before. Examining thirty-six democracies during the period from 1945 to 2010, Lijphart arrives at importantand unexpectedconclusions about what type of democracy works best.
+> In this updated and expanded edition of his classic text, Arend Lijphart offers a broader and deeper analysis of worldwide democratic institutions than ever before. Examining thirty-six democracies during the period from 1945 to 2010, Lijphart arrives at important and unexpected conclusions about what type of democracy works best.
 
 ## Physical Description
 
