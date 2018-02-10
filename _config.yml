@@ -4,7 +4,7 @@ email: psbc@svmiller.com
 description: > # this means to ignore newlines until "baseurl:"
   Need books in political science and/or political theory/philosophy? Here's what we got. Just ask us and we'll send it to you.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://polisci-book-co-op.github.io" # the base hostname & protocol for your site
 twitter_username: stevenvmiller
 github_username:  polisci-book-co-op
 
