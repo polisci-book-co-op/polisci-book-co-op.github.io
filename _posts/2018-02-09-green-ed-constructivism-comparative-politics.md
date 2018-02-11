@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Daniel M. Green (ed.) - Constructivism and Comparative Politics"
+author: Steven V. Miller
 # date:   2015-08-16 15:36:27
 categories: 
  - Comparative Politics

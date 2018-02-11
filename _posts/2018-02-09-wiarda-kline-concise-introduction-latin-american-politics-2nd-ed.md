@@ -2,6 +2,7 @@
 layout: post
 title:  "Howard J. Wiarda and Harvey F. Kline - A Concise Introduction to Latin American Politics and Development (2nd Ed.)"
 # date:   2015-08-16 15:36:27
+author: Steven V. Miller
 categories: 
  - Comparative Politics
 ---

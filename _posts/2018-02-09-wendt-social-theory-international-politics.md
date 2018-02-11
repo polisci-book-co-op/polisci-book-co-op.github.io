@@ -2,6 +2,7 @@
 layout: post
 title:  "Alexander Wendt - Social Theory of International Politics"
 # date:   2015-08-16 15:36:27
+author: Steven V. Miller
 categories: 
  - International Relations
 ---

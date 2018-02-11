@@ -21,9 +21,10 @@ comments: false
   {% capture this_word %}{{ cats_list[item] | strip_newlines }}{% endcapture %}
 	<article>
 	<h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
-		<ul>
+		<ul id="archive">
     {% for post in site.categories[this_word] %}{% if post.title != null %}
-      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+      <li class="archiveposturl"><span><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></span><br/>
+<span style="font-size:85%"><strong>Owner:</strong> {{post.author}}</span></li>
     {% endif %}{% endfor %}
 		</ul>
 	</article><!-- /.hentry -->

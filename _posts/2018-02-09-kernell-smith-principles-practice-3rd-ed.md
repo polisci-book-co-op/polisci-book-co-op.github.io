@@ -2,6 +2,7 @@
 layout: post
 title:  "Samuel Kernell and Steven S. Smith (Eds.) - Principles and Practice of American Politics (3rd Ed.)"
 # date:   2015-08-16 15:36:27
+author: Steven V. Miller
 categories: 
  - American Politics
 ---

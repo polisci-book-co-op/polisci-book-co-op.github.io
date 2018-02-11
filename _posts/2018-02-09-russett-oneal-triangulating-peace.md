@@ -2,6 +2,7 @@
 layout: post
 title:  "Bruce Russett and John Oneal - Triangulating Peace"
 # date:   2015-08-16 15:36:27
+author: Steven V. Miller
 categories: 
  - International Relations
 ---

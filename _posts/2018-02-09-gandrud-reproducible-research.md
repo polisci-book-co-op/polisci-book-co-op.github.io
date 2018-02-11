@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Christopher Gandrud - Reproducible Research with R and Rstudio"
+author: Steven V. Miller
 # date:   2015-08-16 15:36:27
 categories: 
  - Methods (Quantitative or Qualitative)

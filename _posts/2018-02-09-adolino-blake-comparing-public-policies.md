@@ -2,6 +2,7 @@
 layout: post
 title:  "Jessica R. Adolino and Charles H. Blake - Comparing Public Policies (1st Ed.)"
 # date:   2015-08-16 15:36:27
+author: Steven V. Miller
 categories: 
  - Comparative Politics
 ---

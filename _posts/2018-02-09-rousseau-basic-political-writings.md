@@ -2,6 +2,7 @@
 layout: post
 title:  "Jean-Jacques Rousseau - The Basic Political Writings"
 # date:   2015-08-16 15:36:27
+author: Steven V. Miller
 categories: 
  - Political Theory/Philosophy
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "J. Scott Long and Jeremy Freese - Regression Models for Categorical Dependent Variables Using Stata (2nd ed.)"
+author: Steven V. Miller
 # date:   2015-08-16 15:36:27
 categories: 
  - Methods (Quantitative or Qualitative)

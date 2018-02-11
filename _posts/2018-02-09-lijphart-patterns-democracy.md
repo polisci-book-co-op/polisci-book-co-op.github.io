@@ -2,6 +2,7 @@
 layout: post
 title:  "Arend Lijphart - Patterns of Democracy"
 # date:   2015-08-16 15:36:27
+author: Steven V. Miller
 categories: 
  - Comparative Politics
 ---

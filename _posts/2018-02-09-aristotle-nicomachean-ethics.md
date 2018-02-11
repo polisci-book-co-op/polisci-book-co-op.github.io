@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Aristotle - Nicomachean Ethics"
+author: Steven V. Miller
 # date:   2015-08-16 15:36:27
 categories: 
  - Political Theory/Philosophy
