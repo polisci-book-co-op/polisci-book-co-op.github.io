@@ -20,3 +20,4 @@ categories:
 - **Condition**: Used, Good
 - **Markings**: Early passages have pencil underlining/marginalia with occasional blue highlighter. Nothing too distracting.
 - **Other comments**: Bought for a political theory class on the classics. Second edition. Translated/introduced by Terence Irwin.
+
